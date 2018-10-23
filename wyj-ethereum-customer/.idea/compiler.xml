@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wyj-ethereum-common" />
+        <module name="wyj-ethereum-dao" />
+        <module name="wyj-ethereum-domain" />
+        <module name="wyj-ethereum-service" />
+        <module name="wyj-ethereum-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wyj-ethereum" target="1.8" />
+      <module name="wyj-ethereum-common" target="1.8" />
+      <module name="wyj-ethereum-dao" target="1.8" />
+      <module name="wyj-ethereum-domain" target="1.8" />
+      <module name="wyj-ethereum-service" target="1.8" />
+      <module name="wyj-ethereum-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

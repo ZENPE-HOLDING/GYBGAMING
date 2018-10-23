@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wyj-ethereum.iml" filepath="$PROJECT_DIR$/wyj-ethereum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyj-ethereum-common/wyj-ethereum-common.iml" filepath="$PROJECT_DIR$/wyj-ethereum-common/wyj-ethereum-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyj-ethereum-dao/wyj-ethereum-dao.iml" filepath="$PROJECT_DIR$/wyj-ethereum-dao/wyj-ethereum-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyj-ethereum-domain/wyj-ethereum-domain.iml" filepath="$PROJECT_DIR$/wyj-ethereum-domain/wyj-ethereum-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyj-ethereum-service/wyj-ethereum-service.iml" filepath="$PROJECT_DIR$/wyj-ethereum-service/wyj-ethereum-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyj-ethereum-web/wyj-ethereum-web.iml" filepath="$PROJECT_DIR$/wyj-ethereum-web/wyj-ethereum-web.iml" />
+    </modules>
+  </component>
+</project>
